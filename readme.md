@@ -1,8 +1,8 @@
 ## <p align="center">The Assignment Problem</p>
 
 To solve this problem, it was used the hungarian method, based on the materials below. And javascript was used for the algorithm.
-* [Youtube Class - Hungarian Method](https//://www.youtube.com/watch?v=ezSx8OyBZVc&ab_channel=ShokoufehMirzaei)
-* [Wikipedia - Hungarian Method](https//:en.wikipedia.org/wiki/Hungarian_algorithm)
+* [Youtube Class - Hungarian Method](https://www.youtube.com/watch?v=ezSx8OyBZVc&ab_channel=ShokoufehMirzaei)
+* [Wikipedia - Hungarian Method](https://en.wikipedia.org/wiki/Hungarian_algorithm)
 
 ## THE PROBLEM
 <p>Calculate the least cost of production by assigning only one task to each machine. Data is provided in a matrix. Being:</p>
