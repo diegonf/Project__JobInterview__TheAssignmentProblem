@@ -1,5 +1,6 @@
 ## <p align="center">The Assignment Problem</p>
 
+To solve this problem, it was used the hungarian method, based on the materials below. And javascript was used for the algorithm.
 * [Youtube Class - Hungarian Method](https:www.youtube.com/watch?v=ezSx8OyBZVc&ab_channel=ShokoufehMirzaei)
 * [Wikipedia - Hungarian Method](https:en.wikipedia.org/wiki/Hungarian_algorithm)
 
@@ -13,7 +14,7 @@
   * [ [1, 2, 1],
   *   [4, 1, 5],
   *   [5, 2, 1] ]
-results should be (1-1)(2-2)(3-3)
+output expected: (1-1)(2-2)(3-3) (string)
 
 # The Method
 
@@ -56,5 +57,5 @@ Steps of the Hungarian Method
 * Javascript;
 
 ## Autores
-| [<img src="https:avatars.githubusercontent.com/u/97759524?v=4" width=115><br><sub>Diego Ferreira</sub>](https:github.com/diegonf) | 
+| [<img src="https://avatars.githubusercontent.com/u/97759524?v=4" width=115><br><sub>Diego Ferreira</sub>](https://github.com/diegonf) | 
 | :---: |
