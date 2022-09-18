@@ -15,6 +15,12 @@ To solve this problem, it was used the hungarian method, based on the materials 
   *   [4, 1, 5],
   *   [5, 2, 1] ]
 output expected: (1-1)(2-2)(3-3) (string)
+<br>
+* Expected
+  * Input: ["(1,2,1)","(4,1,5)","(5,2,1)"] / Output: (1-1)(2-2)(3-3)
+  * Input: ["(13,4,7,6)","(1,11,5,4)","(6,7,2,8)","(1,3,5,9)"] / Output: (1-2)(2-4)(3-3)(4-1)
+  * Input: ["(5,4,2)","(12,4,3)","(3,4,13)"]  / Output: (1-3)(2-2)(3-1)
+
 
 # The Method
 
