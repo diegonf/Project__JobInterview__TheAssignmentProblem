@@ -1,8 +1,8 @@
 ## <p align="center">The Assignment Problem</p>
 
-To solve this problem, it was used the hungarian method, based on the materials below. And javascript was used for the algorithm.
-* [Youtube Class - Hungarian Method](https://www.youtube.com/watch?v=ezSx8OyBZVc&ab_channel=ShokoufehMirzaei)
-* [Wikipedia - Hungarian Method](https://en.wikipedia.org/wiki/Hungarian_algorithm)
+To solve this problem, it was used 2 methods.
+* 1st: An algorithm to permutate all possible columns and find the costs of all possible assignments.
+* 2nd: The Hungarian Method to find the best assignment.
 
 ## THE PROBLEM
 <p>Calculate the least cost of production by assigning only one task to each machine. Data is provided in a matrix. Being:</p>
@@ -21,8 +21,10 @@ output expected: (1-1)(2-2)(3-3) (string)
   * Input: ["(13,4,7,6)","(1,11,5,4)","(6,7,2,8)","(1,3,5,9)"] / Output: (1-2)(2-4)(3-3)(4-1)
   * Input: ["(5,4,2)","(12,4,3)","(3,4,13)"]  / Output: (1-3)(2-2)(3-1)
 
-
-# The Method
+# The Hungarian Method
+Materials studied:
+* [Youtube Class - Hungarian Method](https://www.youtube.com/watch?v=ezSx8OyBZVc&ab_channel=ShokoufehMirzaei)
+* [Wikipedia - Hungarian Method](https://en.wikipedia.org/wiki/Hungarian_algorithm)
 
 matrix nxn                             
 * [X11, X12, ..., Xnn]
